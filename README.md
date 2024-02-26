@@ -1,0 +1,6 @@
+-  Hi, I’m Leosnardos
+-  I’m interested in Informatics
+- 🌱 I’m currently learning JavaScript / C++
+- 📫 How to reach me: leoknardok@gmail.com (may not respond)
+- Pronouns: he/him
+- ⚡ Fun fact: I like pizza
