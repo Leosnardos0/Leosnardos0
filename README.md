@@ -1,6 +1,6 @@
 -  Hi, I’m Leosnardos
 -  I’m interested in Informatics
-- 🌱 I’m currently learning JavaScript / C++
+- 🌱 I’m currently learning JavaScript / Java, and C++
 - 📫 How to reach me: leoknardok@gmail.com (may not reply)
 - Pronouns: he/him
 - ⚡ Fun fact: I like pizza
